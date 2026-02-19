@@ -56,7 +56,7 @@ Planned / Ongoing:
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 * SIEM tuning and rule creation
 * Threat hunting methodology
@@ -79,4 +79,4 @@ To become a Security Operations Center (SOC) Manager and contribute to protectin
 
 ---
 
-⭐ *Always learning. Always improving. Security is a journey, not a destination.*
+*Always learning. Always improving. Security is a journey, not a destination.*
