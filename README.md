@@ -75,7 +75,7 @@ To become a Security Operations Center (SOC) Manager and contribute to protectin
 ## 🤝 Connect With Me
 
 * LinkedIn: [click here](https://www.linkedin.com/in/adebayo-adebolu-a3ab7aa3/)
-* Email: (add your email)bayoadebolu1405@gmail.com
+* Email: [click here](bayoadebolu1405@gmail.com)
 
 ---
 
