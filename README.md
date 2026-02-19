@@ -6,17 +6,17 @@ I am an aspiring cybersecurity professional passionate about security operations
 
 ---
 
-## 🧠 About Me
+## About Me
 
 * 🔐 Focused on Blue Team / SOC Analyst career path
-* 📊 Interested in SIEM, log analysis, and incident response
-* 🧪 Hands‑on learner — I learn by building labs and breaking things safely
+* 📊 Interested in SIEM, log analysis, incident response, and many more
+* 🧪 Hands‑on learner: I learn by building labs and breaking things safely
 * 🌍 Based in Canada
 * 📚 Currently learning: network security, detection engineering, and threat hunting
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Security
 
@@ -27,8 +27,9 @@ I am an aspiring cybersecurity professional passionate about security operations
 
 ### Tools
 
-* QRadar (Community Edition)
 * AlienVault OTX
+* VirusTotal
+* Wazuh
 * pfSense
 * Wireshark
 * Linux
@@ -42,7 +43,7 @@ I am an aspiring cybersecurity professional passionate about security operations
 
 ---
 
-## 🧪 Home Lab Projects
+## Home Lab Projects
 
 I actively build and document my cybersecurity lab environment.
 
@@ -65,7 +66,7 @@ Planned / Ongoing:
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
 To become a Security Operations Center (SOC) Manager and contribute to protecting organizations by detecting and responding to cyber threats.
 
@@ -73,8 +74,8 @@ To become a Security Operations Center (SOC) Manager and contribute to protectin
 
 ## 🤝 Connect With Me
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: [(add your link)](https://www.linkedin.com/in/adebayo-adebolu-a3ab7aa3/)
+* Email: (add your email)bayoadebolu1405@gmail.com
 
 ---
 
